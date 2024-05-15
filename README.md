@@ -1,7 +1,19 @@
-### Hi there 👋
+ <h1>Hi, I'm  Michael ! , <a href=https://www.linkedin.com/in/michael-lauretta-a2534011a//">Cybersecurity Professional</a> 
 
-<!--
-**Guitarlion/Guitarlion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ <h2> Certfications:</h2>
+
+ <b> CompTIA Security+<b>
+  <b> AWS Soultions Architecut (in progress)<b>
+ 
+
+<h2> Cyber Security  Projects:</h2>
+
+
+
+
+
+
 
 Here are some ideas to get you started:
 
