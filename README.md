@@ -5,7 +5,7 @@
 
  <b> CompTIA Security+<b>
   <b> AWS Soultions Architecut (in progress)<b>
- <b> CompTIA Network+ (in progress) 
+ <b>  CCNA (in progress) 
 
 <h2> Cyber Security  Projects:</h2>
 
