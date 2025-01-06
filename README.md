@@ -1,4 +1,4 @@
- <h1>Hi, I'm  Michael ! , <a href=https://www.linkedin.com/in/michael-lauretta-a2534011a//">Cybersecurity Professional</a> 
+ <h1>Hi, I'm  Michael ! , <a href=https://www.linkedin.com/in/michael-lauretta-a2534011a//">Cybersecurity and IT Professional</a> 
 
 
  <h2> Certfications:</h2>
