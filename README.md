@@ -10,10 +10,8 @@
 
 <h2>  IT  Projects:</h2>
 
-<b> Active Directory Project
-<b> technology used: 
-       AWS 
-      Windows Server 2025
+<b> Active Directory Project</b>
+
 
 
 
