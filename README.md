@@ -10,7 +10,7 @@
 
 <h2> Cyber Security  Projects:</h2>
 
-<b> Security onion siem 
+<b> Active Directory Project 
 
 
 
