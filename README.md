@@ -4,7 +4,7 @@
  <h2> Certfications:</h2>
 
  <b> CompTIA Security+<b>
-  <b> AWS Soultions Architecut (in progress)<b>
+  <b> Network + (in progress)<b>
  <b>  CompTIA CYSA+ (in progress)
 
 
