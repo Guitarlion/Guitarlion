@@ -10,8 +10,10 @@
 
 <h2>  IT  Projects:</h2>
 
-<b> Active Directory Project</b>
-
+<b> Active Directory Project:</b>
+ <br> In aws created a windows 2025 server ec2 instance and within the server created and setup active directory.<br>
+  <br>Created other ec2 instances that I have added to active directory. <br>
+   
 
 
 
