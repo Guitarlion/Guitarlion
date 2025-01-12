@@ -14,7 +14,14 @@
  <br> In aws I created a windows 2025 server ec2 instance and within the server created and setup active directory.<br>
    In active directory I created several  OU's  and groups that are asssoicated with a company. 
    I also created users and their computers that the userrs will be using  within the OU <br> 
-   
+
+
+
+
+   <b> Password Generator:</b>
+
+  <b> In Visual Studio Code I created a password generator using Python as the programming language
+  
 
 
 
