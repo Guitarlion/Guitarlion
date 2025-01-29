@@ -17,9 +17,7 @@
 
 <img width="1728" alt="Image" src="https://github.com/user-attachments/assets/dd50d1a8-fcf7-4ac9-a609-a4ea7c69dd1a" />
 
-   <b> Password Generator:</b>
-
-  <b> In Visual Studio Code I created a password generator using Python as the programming language
+   
   
 
 
