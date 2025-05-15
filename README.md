@@ -10,7 +10,7 @@
 
   Projects:
 
-   Vulnerability Project:  https://github.com/Guitarlion/Vulnerability-Management-Program
+   Vulnerability Project: https://github.com/Guitarlion/Vulnerability-Management-Program
 
    
   
