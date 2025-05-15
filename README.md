@@ -8,9 +8,10 @@
  <b>  CompTIA CYSA+ (in progress)
 
 
-  Projects:
+** Projects:
 
-   Vulnerability Project: https://github.com/Guitarlion/Vulnerability-Management-Program
+
+   [Vulnerability Project]: https://github.com/Guitarlion/Vulnerability-Management-Program
 
    
   
