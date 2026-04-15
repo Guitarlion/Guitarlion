@@ -1,0 +1,33 @@
+<#
+.SYNOPSIS
+    This PowerShell script ensures that enforcing Windows 11 account lockout policy settings,
+
+.NOTES
+    Author          : J Michael Lauretta
+    LinkedIn        : https://www.linkedin.com/in/michael-lauretta-a2534011a/
+    GitHub          : github.com/Guitarlion
+    Date Created    : 04/08/2026
+    Last Modified   : 04/08/2026
+    Version         : 1.0
+    CVEs            : N/A
+    Plugin IDs      : N/A
+    STIG-ID         : WN11-CC-000315 
+    Documentation   : https://stigaview.com/products/win11/v2r7/WN11-CC-000315/
+
+.TESTED ON
+    Date(s) Tested  : 
+    Tested By       : 
+    Systems Tested  : Windows 11 
+    PowerShell Ver. : 
+
+.USAGE
+    Put any usage instructions here.
+    Example syntax:
+    PS C:\> .\__remediation_template(STIG-ID-N11-CC-000315).ps1 
+#>
+
+# YOUR CODE GOES HERE
+
+net accounts /lockoutduration:15
+
+net accounts
