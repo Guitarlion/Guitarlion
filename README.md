@@ -5,7 +5,7 @@
 
  <b> CompTIA Security+<b>
   <b> CCNA (in progress)<b>
- <b>  CompTIA CYSA+ (in progress)
+
 
 
  <h1>Projects:
