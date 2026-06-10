@@ -14,7 +14,7 @@
 
    [Threat-Hunting-Scenario-TOR](https://github.com/Guitarlion/Threat-Hunting-Scenario-TOR)
    
-   [ProxMox-Server](https://github.com/Guitarlion/ProxMox-Server)
+   [Enterprise Infrastructure & Security Home Lab](https://github.com/Guitarlion/Enterprise-Infrastructure-Security-Home-Lab)
 
 
 
