@@ -14,7 +14,7 @@
 
    [Threat-Hunting-Scenario-TOR](https://github.com/Guitarlion/Threat-Hunting-Scenario-TOR)
    
-   [Enterprise Infrastructure,Identity & Security Home Lab](https://github.com/Guitarlion/Enterprise-Infrastructure-Security-Home-Lab)
+   [Enterprise Infrastructure, Identity & Security Home Lab](https://github.com/Guitarlion/Enterprise-Infrastructure-Security-Home-Lab)
 
 
 
