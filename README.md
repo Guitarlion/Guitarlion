@@ -11,7 +11,6 @@
  <h1>Projects:
 
    [Vulnerability Project](https://github.com/Guitarlion/Vulnerability-Management-Program)
-
  [Threat Hunting & Incident Investigation](https://github.com/Guitarlion/Threat-Hunting-and-Incident-Investigation-)   
    [Enterprise Infrastructure, Identity & Security Home Lab](https://github.com/Guitarlion/Enterprise-Infrastructure-Security-Home-Lab)
 
